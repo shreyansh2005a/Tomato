@@ -32,29 +32,6 @@ Database: MongoDB
 
 Authentication: JWT, Bcrypt
 
-Payment Gateway: Stripe
-
-Deployment: Render, Netlify
-
-📦 Installation
-
-To run Tomato locally:
-
-Clone the repository:
-
-git clone https://github.com/anik-saha-2001/tomato.git
-
-
-Navigate to the project directory:
-
-cd tomato
-
-
-Install frontend dependencies:
-
-cd frontend
-npm install
-
 
 Install backend dependencies:
 
